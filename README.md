@@ -1,13 +1,13 @@
-<h1 align="center"> Space Cream versão web</h1>
+<h1 align="center"> Login com firebase </h1>
 
 <p align="center">
-Página feita com intuito de treinar alguns conhecimentos entre HTML, CSS E JAVASCRIPT e conceitos como mobile first, transições e transformações e animação em CSS<br/>
+Página feita para mostrar como fazer um login com a conta do google sem precisar de cadastro em sistemas novos<br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A tela de login apenas mostra como seria fazer um login sem ter que fazer um novo cadastro em algum sistema, apenas acessando sua conta do google você ja terá uma conta de cadastro que entra com suas informações pessoais do google atráves do firebase do google.
+A tela de login é apenas mostra como seria fazer um login sem ter que fazer um novo cadastro em algum sistema, apenas acessando sua conta do google você ja terá uma conta de cadastro que entra com suas informações pessoais do google atráves do firebase do google.
 
 - [Visite o projeto online](https://github.com/RamirisonOliveira/login_com_firebase)
 
