@@ -7,7 +7,6 @@ Página feita para mostrar como fazer um login com a conta do google sem precisa
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -30,10 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 A tela de login é apenas mostra como seria fazer um login sem ter que fazer um novo cadastro em algum sistema, apenas acessando sua conta do google você ja terá uma conta de cadastro que entra com suas informações pessoais do google atráves do firebase do google.
 
 - [Visite o projeto online](https://github.com/RamirisonOliveira/login_com_firebase)
-
-## 🔖 Deploy do projeto
-
-Você pode visualizar o projeto através [DESSE LINK]( ).
 
 ## :memo: Licença
 
